@@ -1,0 +1,7 @@
+02/18/2025 - Tuesday:
+- Started the project with an index.html
+- Downloaded live preview to see the changes in action
+- Made the google doc for pleminary information to be put on this site
+- Started with CSS.
+To Do: 
+- Watch the CSS video and get started on puttin gthe stuff on the site using only HTML
