@@ -5,3 +5,15 @@
 - Started with CSS.
 To Do: 
 - Watch the CSS video and get started on puttin gthe stuff on the site using only HTML
+
+02/19/2025 - Wednesday - "Progress over perfection" 
+- Got started with my website from AI, and went into a rabbit hole
+about how AI is going to destory jobs. InshAllah its going to go well for 
+everybody.
+- Got familiar with CSS, and HTML
+
+02/20/2025 - Thursday - "Think less, do more*" 
+* - Make sure you think before you do tho. Otherwise people get hurt
+- Got started with my personal bio, will get it done once
+I have the general layout of the webpage finalized. 
+- Messed around with CSS using AI. 
